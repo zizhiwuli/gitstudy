@@ -10,3 +10,4 @@
 # git remote add 远程仓库名 地址 //创建
 # git push 远程仓库名 master
 # git clone 地址 把github上的拉下来
+# git pull  git fetch 可以强制覆盖
